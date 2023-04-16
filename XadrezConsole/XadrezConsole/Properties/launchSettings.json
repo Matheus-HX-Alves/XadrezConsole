@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "XadrezConsole": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

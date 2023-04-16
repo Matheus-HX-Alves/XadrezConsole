@@ -1,0 +1,5 @@
+C:\Users\b2u\source\repos\XadrezConsole\obj\Debug\net7.0\XadrezConsole.csproj.AssemblyReference.cache
+C:\Users\b2u\source\repos\XadrezConsole\obj\Debug\net7.0\XadrezConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b2u\source\repos\XadrezConsole\obj\Debug\net7.0\XadrezConsole.AssemblyInfoInputs.cache
+C:\Users\b2u\source\repos\XadrezConsole\obj\Debug\net7.0\XadrezConsole.AssemblyInfo.cs
+C:\Users\b2u\source\repos\XadrezConsole\obj\Debug\net7.0\XadrezConsole.csproj.CoreCompileInputs.cache
